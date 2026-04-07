@@ -1,7 +1,6 @@
 # Sign Language to Speech Converter
 
-This project is a simple demo created for GitHub practice. 
-It simulates a real-time system that converts sign language gestures into audible speech.
+A real-time sign language to speech system is a technology that translates hand gestures, facial expressions, and body movements into spoken words instantly, helping people with hearing impairments communicate more easily with others.
 
 ## Features
 - Demonstrates a basic project structure
